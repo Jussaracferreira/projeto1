@@ -1,2 +1,2 @@
 # projeto1
-Meu primeiro projeto, desenvolvido sem ajuda professores da Alura
+Meu primeiro projeto, desenvolvido sem ajuda dos professores da Alura
